@@ -1,0 +1,110 @@
+[
+  {
+    "id": 101,
+    "name": "Teclado mecánico",
+    "category": "Periféricos",
+    "price": 189900,
+    "stock": 8,
+    "description": "Teclado USB para uso diario",
+    "active": true
+  },
+  {
+    "id": 102,
+    "name": "Mouse Ergonómico",
+    "category": "Periféricos",
+    "price": 95000,
+    "stock": 15,
+    "description": "Mouse óptico inalámbrico",
+    "active": true
+  },
+  {
+    "id": 103,
+    "name": "Monitor 24 pulgadas",
+    "category": "Monitores",
+    "price": 620000,
+    "stock": 5,
+    "description": "Pantalla Full HD 75Hz",
+    "active": true
+  },
+  {
+    "id": 104,
+    "name": "Audífonos Gamer",
+    "category": "Audio",
+    "price": 150000,
+    "stock": 10,
+    "description": "Audífonos con micrófono integrado",
+    "active": true
+  },
+  {
+    "id": 105,
+    "name": "Silla Ergonómica",
+    "category": "Mobiliario",
+    "price": 450000,
+    "stock": 3,
+    "description": "Silla de oficina con soporte lumbar",
+    "active": true
+  },
+  {
+    "id": 106,
+    "name": "Hub USB-C 6 en 1",
+    "category": "Accesorios",
+    "price": 110000,
+    "stock": 0,
+    "description": "Multipuerto HDMI y USB 3.0",
+    "active": true
+  },
+  {
+    "id": 107,
+    "name": "Base para Laptop",
+    "category": "Accesorios",
+    "price": 75000,
+    "stock": 12,
+    "description": "Soporte de aluminio ajustable",
+    "active": true
+  },
+  {
+    "id": 108,
+    "name": "Cámara Web 1080p",
+    "category": "Periféricos",
+    "price": 135000,
+    "stock": 7,
+    "description": "Webcam con micrófono estéreo",
+    "active": false
+  },
+  {
+    "id": 109,
+    "name": "Disco Duro Externo 1TB",
+    "category": "Almacenamiento",
+    "price": 240000,
+    "stock": 6,
+    "description": "Almacenamiento USB 3.0 portatil",
+    "active": true
+  },
+  {
+    "id": 110,
+    "name": "Pad Mouse XXL",
+    "category": "Accesorios",
+    "price": 45000,
+    "stock": 20,
+    "description": "Superficie antideslizante",
+    "active": true
+  },
+  {
+    "id": 111,
+    "name": "Micrófono Condensador",
+    "category": "Audio",
+    "price": 280000,
+    "stock": 4,
+    "description": "Micrófono USB para streaming",
+    "active": true
+  },
+  {
+    "id": 112,
+    "name": "Monitor Curvo 27 pulgadas",
+    "category": "Monitores",
+    "price": 980000,
+    "stock": 2,
+    "description": "Pantalla 144Hz para gaming",
+    "active": true
+  }
+]
